@@ -1,5 +1,11 @@
 # unslugify
 
+# Install
+
+```js
+npm i @yourstruggle11/unslugify
+```
+
 
 ```js
 var unslugify = require("@yourstruggle11/unslugify");
