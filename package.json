@@ -1,0 +1,24 @@
+{
+  "name": "@yourstruggle11/unslugify",
+  "version": "1.0.0",
+  "description": "This package will unslugify your URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yourstruggle11/unslugify.git"
+  },
+  "keywords": [
+    "unslugify",
+    "slug",
+    "URL"
+  ],
+  "author": "Souvik Sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yourstruggle11/unslugify/issues"
+  },
+  "homepage": "https://github.com/Yourstruggle11/unslugify#readme"
+}
