@@ -7,6 +7,8 @@ npm i @yourstruggle11/unslugify
 ```
 
 
+# Use
+
 ```js
 var unslugify = require("@yourstruggle11/unslugify");
 unslugify('some-string-goes-here') // some string goes here
