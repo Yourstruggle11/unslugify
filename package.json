@@ -1,6 +1,6 @@
 {
   "name": "@yourstruggle11/unslugify",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This package will unslugify your URL",
   "main": "index.js",
   "scripts": {
