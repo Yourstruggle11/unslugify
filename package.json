@@ -1,6 +1,6 @@
 {
   "name": "@yourstruggle11/unslugify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package will unslugify your URL",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "URL"
   ],
   "author": "Souvik Sen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Yourstruggle11/unslugify/issues"
   },
